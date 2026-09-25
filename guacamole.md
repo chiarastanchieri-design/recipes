@@ -1,6 +1,7 @@
 #Guacamole
 #Ingredients
 *Avocado
-*lemon
+*lime
 *salt
+*pepper
 #Instructions
